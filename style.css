@@ -526,3 +526,16 @@ body {
   .polaroid, .lightbox-card { animation: none !important; transition: none !important; }
   .polaroid { opacity: 1 !important; }
 }
+
+/* ── iOS Safe Area / Fullscreen PWA Adjustments ── */
+@media (display-mode: standalone) {
+  .navbar {
+    /* Respects iPhone notch/dynamic island layout safely */
+    padding-top: env(safe-area-inset-top, 20px); 
+    height: calc(60px + env(safe-area-inset-top, 20px));
+  }
+  body {
+    -webkit-tap-highlight-color: transparent;
+    user-select: none; /* Prevents text selection popups on accidentally holding images */
+  }
+}
