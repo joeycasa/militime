@@ -6,11 +6,7 @@ Post photos and notes from the road. She opens the link, and sees every moment y
 
 ---
 
-## 🚀 Setup (One-time, ~5 minutes)
-
-### 1. Upload these files to your GitHub repo
-
-Your repo should look like this:
+## 🚀 Setup
 
 ```
 your-repo/
@@ -33,7 +29,7 @@ your-repo/
 
 GitHub will give you a URL like:
 ```
-https://your-username.github.io/your-repo-name/
+https://joeycasa.github.io/militime/
 ```
 
 That's the link you share with her. 💕
@@ -97,33 +93,5 @@ Using the **GitHub mobile app** or **github.com**:
 - **No image?** Leave `"image": ""` and a cute placeholder will appear instead.
 - **No song?** Leave `"song": ""` — the music note just won't show.
 - **Captions:** Written in a handwriting-style font, so they look best as real sentences or notes — not just keywords.
-
----
-
-## 🎨 Customising the greeting
-
-Want to personalise the hero message for her? Open `index.html` and find this section:
-
-```html
-<p class="hero-eyebrow">a little piece of the world,</p>
-<h1 class="hero-title">sent home to you</h1>
-<p class="hero-sub">Every photo here is a promise that I'm coming back...</p>
-```
-
-Change any of those lines to whatever you want to say.
-
----
-
-## 📁 File Reference
-
-| File | Purpose |
-|---|---|
-| `index.html` | The page structure |
-| `style.css` | All the visual design |
-| `app.js` | Loads posts, builds cards, handles clicking |
-| `posts.json` | **Your data file — edit this to add posts** |
-| `images/` | Folder for all your photos |
-
----
 
 *Made with love — every mile closer to you* 💕
