@@ -2,16 +2,16 @@
   {
     "id": 1,
     "date": "June 25, 2026",
-    "location": "NYC",
+    "location": "Home (for now)",
     "caption": "Hey Sleepy! I made this app just for you so I can update you on my trip! 💕",
     "image": "images/IMG_0482.jpeg",
     "song": "Can't Help Falling in Love"
   },
   {
     "id": 2,
-    "date": "June 20, 2026",
-    "location": "On the road",
-    "caption": "Found the best little café. Saved you a seat (and a croissant in my heart).",
+    "date": "June 28, 2026",
+    "location": "On the road... soon to be Sea!",
+    "caption": "On my way to the curise port! This breakfast sandwich reminds me of our times in the city.",
     "image": "images/placeholder2.jpg",
     "song": ""
   }
