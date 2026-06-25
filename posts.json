@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "date": "June 25, 2026",
+    "location": "Somewhere beautiful",
+    "caption": "Thinking of you every single day. This view made me wish you were here beside me. 💕",
+    "image": "images/placeholder1.jpg",
+    "song": "Can't Help Falling in Love"
+  },
+  {
+    "id": 2,
+    "date": "June 20, 2026",
+    "location": "On the road",
+    "caption": "Found the best little café. Saved you a seat (and a croissant in my heart).",
+    "image": "images/placeholder2.jpg",
+    "song": ""
+  }
+]
