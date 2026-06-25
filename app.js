@@ -189,6 +189,14 @@
     if (e.key === 'Escape') closeLightbox();
   });
 
+ // ─── iOS Standalone Lifecycle Fix ─────────────────────────────────────────
+  // Forces a fresh data fetch whenever the app is brought back to the foreground
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') {
+      loadPosts();
+    }
+  });
+
   // ─── Boot ─────────────────────────────────────────────────────────────────
   loadPosts();
 })();

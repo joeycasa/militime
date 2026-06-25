@@ -82,6 +82,16 @@
   <footer class="footer">
     <p>Made with 💕 — every mile closer to you</p>
   </footer>
+   
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js')
+          .then(reg => console.log('Service Worker registered!'))
+          .catch(err => console.warn('Service Worker registration failed: ', err));
+      });
+    }
+  </script>
 
   <script src="app.js"></script>
 </body>
