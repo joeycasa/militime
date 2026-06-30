@@ -22,5 +22,55 @@
     "caption": "Saw these cute bears in the car and couldn't help but think of you. Missing you so much! Featuring my mom who has already annoyed everyone by asking 3 sperare guys for help lol.",
     "image": "images/IMG_0497.jpeg",
     "song": "Ocean"
+  },
+  
+  {
+    "id": 4,
+    "date": "June 28, 2026",
+    "location": "Leaving NYC!",
+    "caption": "Just left NYC! Sailed under the bridge and thought of our recent flea market visit. I miss you the most!",
+    "image": "images/IMG_0501.jpeg",
+    "song": "New York State of Mind"
+  },
+  {
+    "id": 5,
+    "date": "June 28, 2026",
+    "location": "Open Ocean",
+    "caption": "Sea day for us today. Not much to but drink! Perfect for sleepy!",
+    "image": "images/IMG_0502.jpeg",
+    "song": "Waves - Tame Impala Remix"
+  },
+  { 
+    "id": 6,
+    "date": "June 28, 2026",
+    "location": "Dining Hall",
+    "caption": "You're lucky you aren't here or else these snails would be in your future! Miss you the most.",
+    "image": "images/IMG_0503.jpeg",
+    "song": "Dead End - Snail Mail"
+  },
+  
+  {
+    "id": 7,
+    "date": "June 29, 2026",
+    "location": "Bar, Obviously",
+    "caption": "Me drinking. They know my name and order already. Heaven on earth (sea).",
+    "image": "images/IMG_9826.jpeg",
+    "song": "Sideways - Jack Kays"
+  },
+  {
+    "id": 8,
+    "date": "June 29, 2026",
+    "location": "Sushi Night!",
+    "caption": "Got sushi for vinny. The other room had hibanci so it made me think of my sleepy pie.",
+    "image": "images/IMG_9831.jpeg",
+    "song": ":) - The Japanese House"
+  },
+  { 
+    "id": 9,
+    "date": "June 30, 2026",
+    "location": "Ron Jon Surf Shop",
+    "caption": "The biggest surg shop in the USA! I bought more for you than myself lol.",
+    "image": "images/IMG_9835.jpeg",
+    "song": "Surfin USA - The Beach Boys"
   }
 ]
